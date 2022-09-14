@@ -1,6 +1,6 @@
 package dev.hanselwei.experimental.data;
 
-import lombok.data;
+import lombok.Data;
 
 /**
  * Playground
